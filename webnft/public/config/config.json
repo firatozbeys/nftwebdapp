@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x63543526e85188E1Bb417bdC893D70F913D8fd05",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x63543526e85188E1Bb417bdC893D70F913D8fd05",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Stripes NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/senideneme",
+  "SHOW_BACKGROUND": true
+}
